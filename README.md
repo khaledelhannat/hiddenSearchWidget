@@ -1,5 +1,5 @@
 # Hidden Search Widget
-When you click the search widget, the search field is revealed, and when you click it again, the field is hidden, with nice animation.
+#### When you click the search widget, the search field is revealed, and when you click it again, the field is hidden, with nice animation.
 
 
 | Hidden                              | Revealed                            |
